@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Rakibul Hasan
-- 👀 I’m interested in Graphic & Web Design
-- 🌱 I’m currently learning Graphic Design
-- 💞️ I’m looking to collaborate on new Learner
-- 📫 How to reach me? Search On Google  "Rakib Pixel"
-
+🚀 Designer & AI Enthusiast
+🛠️ Working with modern Dev Tools
+💻 Building, experimenting, and learning every day
